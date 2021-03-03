@@ -4,7 +4,7 @@
 
 Here are the slides with examples: https://drive.google.com/file/d/1w_toN6BePlr1glf5W7Abjvz-ScZ1ANER/view?usp=sharing
 
-Here is an example landing page you can inspect (you also have access to the full code base in the `example-bulk-store folder`: https://competent-montalcini-cc9174.netlify.app/
+Here is an example landing page you can inspect (you also have access to the full code base in the `example-bulk-store` folder: https://competent-montalcini-cc9174.netlify.app/
 
 Make sure you have a text editor like [Sublime](https://www.sublimetext.com/) or [VS Code](https://code.visualstudio.com/download)
 
