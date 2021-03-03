@@ -53,6 +53,36 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 - Find a background image on [Unsplash](www.unsplash.com) or [Pexels](https://www.pexels.com/). Download and drag the image into the `images` folder.
 - Give the `class` a `background-image: url();` and use the image you found. 
+- Next, give it a `height` and some `padding`.
+- If the `background-image` isn't aligned nicely, try adding `background-size: cover;` and `background-position: center;` to ensure it takes up the entire space and is centered.
+- Next, change the `color` and `text alignment` of the `text` (if you want).
+- Don't forget your `<a>` link! Try adding some `background-color`, `padding`, a `hover` effect etc.
+- Add any extra styling you'd like. Check out more examples of CSS styling here: [W3Schools | CSS](https://www.w3schools.com/css/).
 
+### Challenge 3 | Google Fonts
+1. Want to add different fonts? Head to [Google Fonts](https://fonts.google.com/).
+2. Find a font you like.
+3. Copy the `link` tag & put it in your `<head>`.
+4. Update your `font-family` css attribute.
+
+### Challenge 3 | CSS Advanced
+1. Use Boostrap to customise your page! https://getbootstrap.com/.
+2. Remember to import Bootstrap in the head of your html:
+
+```
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+```
+
+3. To use the Javascript Bootstrap components, put the following lines right above your closing `</body>` tag in your html file:
+
+```
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+```
+
+
+ 
 
 
