@@ -30,7 +30,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 </html>
 ```
 
-3. Update the `<title>` of your webpage a title.
+3. Update the `<title>` of your webpage.
 4. Let's start by creating a page banner:
 
 - In between your `<body>` tags, let's add some HTML structure. Use a `<h1>` tag and give your site a heading.
