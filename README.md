@@ -52,7 +52,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 1. First, navigate to your `style.css` file. Make sure it is linked in your `index.html` file.
 2. For the `class` you have given to your `banner` section in the previous challenge, let's now give it some styling:
 
-- Find a background image on [Unsplash](www.unsplash.com) or [Pexels](https://www.pexels.com/). Download and drag the image into the `images` folder.
+- Find a background image on [Unsplash](https://unsplash.com/) or [Pexels](https://www.pexels.com/). Download and drag the image into the `images` folder.
 - Give the `class` a `background-image: url();` and use the image you found. 
 - Next, give it a `height` and some `padding`.
 - If the `background-image` isn't aligned nicely, try adding `background-size: cover;` and `background-position: center;` to ensure it takes up the entire space and is centered.
