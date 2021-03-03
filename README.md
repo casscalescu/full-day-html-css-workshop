@@ -2,7 +2,7 @@
 
 ## Let's get familiar with HTML + CSS and build a landing page.
 
-Here are the slides with examples: https://drive.google.com/file/d/1eIPN9CN0BkFGPqfmucLIzg53cbJV-K0-/view?usp=sharing
+Here are the slides with examples: https://drive.google.com/file/d/1w_toN6BePlr1glf5W7Abjvz-ScZ1ANER/view?usp=sharing
 
 Here is an example landing page you can inspect (you also have access to the full code base in the `example-bulk-store folder`: https://competent-montalcini-cc9174.netlify.app/
 
@@ -65,7 +65,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 3. Copy the `link` tag & put it in your `<head>`.
 4. Update your `font-family` css attribute.
 
-### Challenge 3 | CSS Advanced - Flexbox-Grid-Bootstrap
+### Challenge 4 | CSS Advanced - Flexbox-Grid-Bootstrap
 1. Use Boostrap to customise your page! https://getbootstrap.com/.
 2. Remember to import Bootstrap in the head of your html:
 
@@ -97,4 +97,5 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 7. Optional: Add a Boostrap [navbar](https://getbootstrap.com/docs/5.0/components/navbar/) or try to use the [carousel](https://getbootstrap.com/docs/5.0/components/carousel/) and add some `images`.
  
 
-
+### Challenge 5 | Optional: Make it responsive
+1. Let's make those 3 `cards` responsive! Refer to slide 64 of the [lecture slides](https://drive.google.com/file/d/1w_toN6BePlr1glf5W7Abjvz-ScZ1ANER/view?usp=sharing)
