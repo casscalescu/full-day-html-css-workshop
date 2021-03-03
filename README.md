@@ -95,8 +95,14 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 - Style the `footer` however you like. Some options are adding a `background-color`, `hover` effect to the social logos, or using [Bootstrap classes](https://getbootstrap.com/docs/4.0/components/forms/#form-groups) to style the `form`.
 
 7. Optional: Add a Boostrap [navbar](https://getbootstrap.com/docs/5.0/components/navbar/) or try to use the [carousel](https://getbootstrap.com/docs/5.0/components/carousel/) and add some `images`.
- 
 
+> TIP FOR NAVBAR: Today we're building a static web page, but we can make it a bit more interactive by making our navbar links navigate to different sections of the page. Follow these steps to do so:
+
+- Add a unique `id` to each section you want to navigate to (e.g. `cards` section, `footer form` section).
+- In your Bootstrap `navbar`, look for all the `<a>` tags with a `class="nav-link`.
+- For each `<a>` tag, the `href="#"`. Replace the `#` with the id name you gave the section you want to navigate to.
+- Example, if your section looks like `<div id="cards"`, change `href` inside `<a>` tag to `href="#cards"`.
+ 
 ### Challenge 5 | Optional: Make it responsive
 1. Let's make those 3 `cards` responsive! Refer to slide 64 of the [lecture slides](https://drive.google.com/file/d/1w_toN6BePlr1glf5W7Abjvz-ScZ1ANER/view?usp=sharing).
 2. Change the `grid-template-columns` for different device sizes to avoid content overflow.
