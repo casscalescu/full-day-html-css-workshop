@@ -93,16 +93,18 @@ p {
   font-size: 48px;
 }
 
+.social-logos {
+  width: 180px;
+  display: flex;
+  justify-content: space-between;
+}
+
 .social-logo {
   height: 42px;
 }
 
-ul {
-  padding: 0 !important;
-  list-style-type: none;
-  width: 180px;
-  display: flex;
-  justify-content: space-between;
+.social-logo:hover {
+  opacity: .7;
 }
 
 form {
