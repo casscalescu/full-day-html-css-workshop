@@ -95,7 +95,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 - Style the `footer` however you like. Some options are adding a `background-color`, `hover` effect to the social logos, or using [Bootstrap classes](https://getbootstrap.com/docs/4.0/components/forms/#form-groups) to style the `form`.
 
-7. Optional: Add a Boostrap [navbar](https://getbootstrap.com/docs/5.0/components/navbar/) or try to use the [carousel](https://getbootstrap.com/docs/5.0/components/carousel/) and add some `images`.
+7. Optional: Add a Boostrap [navbar](https://getbootstrap.com/docs/5.0/components/navbar/) or try to use the [carousel](https://getbootstrap.com/docs/5.0/components/carousel/) with some `images`.
 
 > TIP FOR NAVBAR: Today we're building a static web page, but we can make it a bit more interactive by making our navbar links navigate to different sections of the page. Follow these steps to do so:
 
