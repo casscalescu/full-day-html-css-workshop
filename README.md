@@ -1,4 +1,4 @@
-# Welcome to Intro to HTML & CSS Workshop! :sparkles:
+# Welcome to the Intro to HTML & CSS Workshop! :sparkles:
 
 ## Let's get familiar with HTML + CSS and build a landing page.
 
