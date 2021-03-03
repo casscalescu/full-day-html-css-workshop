@@ -1,3 +1,7 @@
+.font {
+  font-family: 'Poppins', sans-serif;
+}
+
 h1, h2, h5, p {
   color: #233F5D;
   font-size: 61px;
