@@ -13,7 +13,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 ### Challenge 1 | HTML
 
 1. Clone or download this repository (you can use your command line or download it directly to your desktop).
-2. Now that you have the file structure, drag the folder into your text editor to open, and make sure you have the following code to start your document:
+2. Now that you have the file structure, drag the folder into your text editor to open, and make sure you have the following code in your `index.html` file in the `html-css-boilerplate` folder to start your document:
 
 ```
 <!DOCTYPE html>
