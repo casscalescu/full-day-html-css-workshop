@@ -122,6 +122,7 @@ If you want to learn more about HTML & CSS, here are some great resources:
 - Wes Bos & Scott Tolinski (https://leveluptutorials.com)
 
 If you need any help, feel free to reach out:
+
 Cassandra Calescu: [LinkedIn Personal Website](https://www.linkedin.com/in/cassandra-calescu/)
 
 The slides from today: https://drive.google.com/file/d/1w_toN6BePlr1glf5W7Abjvz-ScZ1ANER/view?usp=sharing
