@@ -50,7 +50,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 ### Challenge 2 | CSS
 1. First, navigate to your `style.css` file. Make sure it is linked in your `index.html` file.
-2. For the `class` you have given to your `banner section` in the previous challenge, let's now give it some styling:
+2. For the `class` you have given to your `banner` section in the previous challenge, let's now give it some styling:
 
 - Find a background image on [Unsplash](www.unsplash.com) or [Pexels](https://www.pexels.com/). Download and drag the image into the `images` folder.
 - Give the `class` a `background-image: url();` and use the image you found. 
