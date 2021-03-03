@@ -36,7 +36,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 - In between your `<body>` tags, let's add some HTML structure. Use a `<h1>` tag and give your site a heading.
 - Now use a `<p>` for some text in your site.
-- Let's use a link in your HTML with an `<a>` tag.
+- Let's add a link with an `<a>` tag.
 - Lets put a `<div>` tag around all of the content we've created so far within the `<body>`.
 - Give the `<div>` a class with: `class="your-class-here"`.
 - Feel free to include other HTML tags below the `<div>` you've created + be creative!
