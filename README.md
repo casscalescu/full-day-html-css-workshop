@@ -99,7 +99,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 > TIP FOR NAVBAR: Today we're building a static web page, but we can make it a bit more interactive by making our navbar links navigate to different sections of the page. Follow these steps to do so:
 
-- Add a unique `id` to each section you want to navigate to (e.g. `cards` section, `footer form` section).
+- Add a unique `id` to each section you want to navigate to (e.g. `cards` or `form` section).
 - In your Bootstrap `navbar`, look for all the `<a>` tags with a `class="nav-link`.
 - For each `<a>` tag, the `href="#"`. Replace the `#` with the id name you gave the section you want to navigate to.
 - Example, if your section looks like `<div id="cards"`, change `href` inside `<a>` tag to `href="#cards"`.
