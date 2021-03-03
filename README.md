@@ -64,7 +64,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 1. Want to add different fonts? Head to [Google Fonts](https://fonts.google.com/).
 2. Find a font you like.
 3. Copy the `link` tag & put it in your `<head>`.
-4. Update your `font-family` css attribute.
+4. Update your `font-family` css attribute and apply it by selecting the `body` tag in your css.
 
 ### Challenge 4 | CSS Advanced - Flexbox-Grid-Bootstrap
 1. Use Boostrap to customise your page! https://getbootstrap.com/.
