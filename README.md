@@ -89,7 +89,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 - Add a `<h2>` with your heading text for this section.
 - You can either use Bootstraps `<div class="card">` or practice building your own! Add at least 3 cards.
 - Inside of your card `<div>` add some content: you can add an `<img>` and/or some `text`.
-- Notice the `cards` are all stacked on top of each other vertically? Let's put them all in one line horizontally! Use `flexbox` or `css grid` for this, and rememeber that in order to use either, you will need a parent `<div>` wrapped around your 3 cards.
+- Notice the `cards` are all stacked on top of each other vertically? Let's put them all in one line horizontally! Use `flexbox` or `css grid` for this, and remember that in order to use either, you will need a parent `<div>` wrapped around your 3 cards.
 
 5. Optional: Let's style the `footer` if you've already built it with html, otherwise now's the time:
 
