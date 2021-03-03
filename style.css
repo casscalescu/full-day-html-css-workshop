@@ -1,5 +1,5 @@
-.font {
-  font-family: 'Poppins', sans-serif;
+body {
+  font-family: 'Poppins', sans-serif !important;
 }
 
 h1, h2, h5, p {
@@ -117,7 +117,7 @@ form {
 /* Let's make our cards responsive! */
 
 /* // Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) {
+@media (min-width: 200px) {
   .grid-cards {
     grid-template-columns: 1fr;
   }
