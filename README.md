@@ -4,6 +4,8 @@
 
 Here are the slides with examples: https://drive.google.com/file/d/1eIPN9CN0BkFGPqfmucLIzg53cbJV-K0-/view?usp=sharing
 
+Here is an example landing page you can inspect (you also have access to the full code base in the `example-bulk-store folder`: https://competent-montalcini-cc9174.netlify.app/
+
 Make sure you have a text editor like [Sublime](https://www.sublimetext.com/) or [VS Code](https://code.visualstudio.com/download)
 
 Remember, to open your file on the web browser: right click your file & Open With: Chrome.
@@ -42,7 +44,15 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 - Create a `<div>` and give it a `class`.
 - Inside the `<div>` add a `<h2>` with some text and a contact/signup `<form>`
-- Optional: add social links at the bottom of the `<div>` 
+- Optional: add social links using an `<img>` within an `<a>` tag. Inside the `images` folder there are 3 social media logos you can use.
+
+
+### Challenge 2 | CSS
+1. First, navigate to your `style.css` file. Make sure it is linked in your `index.html` file.
+2. For the `class` you have given to your `banner section` in the previous challenge, let's now give it some styling:
+
+- Find a background image on [Unsplash](www.unsplash.com) or [Pexels](https://www.pexels.com/). Download and drag the image into the `images` folder.
+- Give the `class` a `background-image: url();` and use the image you found. 
 
 
 
