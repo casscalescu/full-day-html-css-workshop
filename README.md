@@ -98,4 +98,23 @@ Remember, to open your file on the web browser: right click your file & Open Wit
  
 
 ### Challenge 5 | Optional: Make it responsive
-1. Let's make those 3 `cards` responsive! Refer to slide 64 of the [lecture slides](https://drive.google.com/file/d/1w_toN6BePlr1glf5W7Abjvz-ScZ1ANER/view?usp=sharing)
+1. Let's make those 3 `cards` responsive! Refer to slide 64 of the [lecture slides](https://drive.google.com/file/d/1w_toN6BePlr1glf5W7Abjvz-ScZ1ANER/view?usp=sharing).
+2. Change the `grid-template-columns` for different device sizes to avoid content overflow.
+
+### Challenge 6 | Launch on Netlify
+1. Sign up for [Netlify](https://www.netlify.com/).
+2. Once you're logged in, drag the folder of code you made today into the space on Netlify that says: `Want to deploy a new site without connecting to Git? Drag and drop your site folder here`.
+3. Launch your website & share with your friends!
+
+### Futher resources:
+If you want to learn more about HTML & CSS, here are some great resources:
+
+- [W3Schools | HTML](https://www.w3schools.com/tags/tag_img.asp)
+- [W3Schools | CSS](https://www.w3schools.com/css/)
+- [Codecademy's Online Tutorial](https://www.codecademy.com/catalog/language/html-css)
+- Wes Bos & Scott Tolinski (https://leveluptutorials.com)
+
+If you need any help, feel free to reach out:
+Cassandra Calescu: [LinkedIn Personal Website](https://www.linkedin.com/in/cassandra-calescu/)
+
+The slides from today: https://drive.google.com/file/d/1w_toN6BePlr1glf5W7Abjvz-ScZ1ANER/view?usp=sharing
