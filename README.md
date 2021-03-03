@@ -31,7 +31,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 ```
 
 3. Update the `<title>` of your webpage.
-4. Let's start by creating a page banner:
+4. Now let's start creating a hero banner:
 
 - In between your `<body>` tags, let's add some HTML structure. Use a `<h1>` tag and give your site a heading.
 - Now use a `<p>` for some text in your site.
