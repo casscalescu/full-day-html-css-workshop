@@ -65,7 +65,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 3. Copy the `link` tag & put it in your `<head>`.
 4. Update your `font-family` css attribute.
 
-### Challenge 3 | CSS Advanced
+### Challenge 3 | CSS Advanced - Flexbox-Grid-Bootstrap
 1. Use Boostrap to customise your page! https://getbootstrap.com/.
 2. Remember to import Bootstrap in the head of your html:
 
@@ -82,7 +82,19 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 ```
 
+4. Let's now add in our cards:
 
+- Between your `banner` and `footer` sections, add a `<div>` with the `class="container"`. This is a Bootstrap `class` and will contain your content so it doesn't stick to the edges of the page.
+- Add a `<h2>` with your heading text for this section.
+- You can either use Bootstraps `<div class="card">` or practice building your own! 
+- Inside of your `card div` add some content: you can add an `<img>` and/or some `text`.
+- Notice the `cards` are all stacked on top of each other vertically? Let's put them all in one line horizontally! Use `flexbox` or `css grid` for this, and rememeber that in order to use either, you will need a parent `<div>` wrapped around your 3 cards.
+
+5. Optional: Let's style the `footer` if you've already built it with html, otherwise now's the time:
+
+- Style the `footer` however you like. Some options are adding a `background-color`, `hover` effect to the social logos, or using [Bootstrap classes](https://getbootstrap.com/docs/4.0/components/forms/#form-groups) to style the `form`.
+
+7. Optional: Add a Boostrap [navbar](https://getbootstrap.com/docs/5.0/components/navbar/) or try to use the [carousel](https://getbootstrap.com/docs/5.0/components/carousel/) and add some `images`.
  
 
 
