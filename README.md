@@ -68,7 +68,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 ### Challenge 4 | CSS Advanced - Flexbox-Grid-Bootstrap
 1. Use Boostrap to customise your page! https://getbootstrap.com/.
-2. Remember to import Bootstrap in the head of your html:
+2. Remember to import Bootstrap in the `<head>` of your html:
 
 ```
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
