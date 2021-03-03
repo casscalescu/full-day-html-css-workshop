@@ -1,0 +1,139 @@
+h1, h2, h5, p {
+  color: #233F5D;
+  font-size: 61px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.banner {
+  padding: 120px 60px;
+  background-image: url("images/hero-image.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  font-size: 61px;
+}
+
+.button {
+  text-decoration: none;
+  background: #668F84;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 6px;
+  display: inline-block;
+  font-size: 20px;
+  transition: .3s ease;
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: .8;
+  color: white;
+  text-decoration: none;
+}
+
+.container {
+  padding: 64px 0px;
+}
+
+.container h2 {
+  font-size: 48px;
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.icon {
+  height: 88px;
+  margin-bottom: 24px;
+}
+
+.grid-cards {
+  display: grid;
+  grid-column-gap: 48px;
+}
+
+.card {
+  padding: 16px;
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.flex-card {
+  width: 360px;
+}
+
+.carousel-title {
+  background: rgba(250, 250, 250, 0.7);
+  padding: 8px 0px;
+  font-size: 39px;
+  color: #233F5D;
+}
+
+.footer {
+  background: #233F5D;
+  padding: 48px 0px;
+  color: #F0EAE0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer h2 {
+  margin-top: 24px;
+  color: #F0EAE0;
+  font-size: 48px;
+}
+
+.social-logo {
+  height: 42px;
+}
+
+ul {
+  padding: 0 !important;
+  list-style-type: none;
+  width: 180px;
+  display: flex;
+  justify-content: space-between;
+}
+
+form {
+  width: 420px;
+  margin: 24px 0px;
+}
+
+.form-group {
+  margin-bottom: 16px;
+}
+
+/* Let's make our cards responsive! */
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+  .grid-cards {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .grid-cards {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .grid-cards {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
